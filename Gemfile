@@ -74,4 +74,5 @@ end
 
 gem "pry", "~> 0.14.1", :group => :development
 
-gem "delayed_job_active_record", "~> 4.1"
+# gem "delayed_job_active_record", "~> 4.1"
+gem "sidekiq"
